@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Cute+Font&display=swap');
+
+.radius{
+    border-radius: 18px;
+}
+
+hr {
+    border: 0;
+    height: 50px;
+    background: url(images/heartsparklebows.png);
+    background-position: center;
+    background-size: 45%;
+    
+}
+
+h2{
+    font-family: Cherry Bomb One;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1{
+    font-family: Cherry Bomb One;
+}
+
+div{
+    font-family: Cherry Bomb One;
+    color: #f2cafc;
+}
+
+body{
+    color: #d969f5;
+    text-align: center;
+    background-image: url(images/png.png);
+    background-size: 100%;
+    font-size: 35px;
+}
